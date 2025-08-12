@@ -20,4 +20,4 @@
   
 </div><br>
 
-Faço faculdade de Ciência da Computação, trabalho aos finais de semana como Freelancer.
+Faço faculdade de Ciência da Computação, trabalho atualmente como Jovem Aprendiz, mas em busca de um estágio na área que almejo.
