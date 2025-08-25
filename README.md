@@ -1,5 +1,5 @@
 ### Olá! eu sou a Carolina, muito prazer 👋
-Estudante de Ciência da Computação, atualmente no 5° período.
+Estudante de Ciência da Computação, atualmente no 5° período. Trabalho como Jovem Aprendiz, mas em busca de um estágio na área que almejo, como Front-End.
 
 [![linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolina-menezes-60b2a92b5/)
 
@@ -20,4 +20,4 @@ Estudante de Ciência da Computação, atualmente no 5° período.
   
 </div><br>
 
-Faço faculdade de Ciência da Computação, trabalho atualmente como Jovem Aprendiz, mas em busca de um estágio na área que almejo.
+
