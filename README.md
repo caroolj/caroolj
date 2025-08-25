@@ -1,4 +1,5 @@
-### Olá! eu sou a Carolina 👋
+### Olá! eu sou a Carolina, muito prazer 👋
+Estudante de Ciência da Computação, atualmente no 5° período.
 
 [![linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolina-menezes-60b2a92b5/)
 
